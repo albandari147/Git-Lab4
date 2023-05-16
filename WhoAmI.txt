@@ -1,0 +1,3 @@
+name:albandari alshudukhi 
+unversity:king saud inversity
+major:statistics
